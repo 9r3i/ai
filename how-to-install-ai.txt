@@ -76,25 +76,17 @@
   Installation
     
     o Get the file script or just download it from this URL
+      --> https://raw.githubusercontent.com/9r3i/ai/main/ai.setup
       
-      --> https://raw.githubusercontent.com/9r3i/ai/main/ai.setup.txt
-      
-    
     o Execute as PHP script, this will loading setup script
-      
-      --> php ai.setup.txt
-      
+      --> php ai.setup
       
     o Start installation
-    
       --> php install.ai
     
     o Done, try to access AI with
-    
       --> ai help
-      
       or try looking version
-      
       --> ai -v
 
 
