@@ -84,11 +84,21 @@
     o Start installation
       --> php install.ai
     
-    o Done, try to access AI with
+    o Then try to access AI with
       --> ai help
       or try looking version
       --> ai -v
+      
+    o Insert product key
+      --> Product key: ayyub-isa-malik
+      
+    o Activate the product
+      o Activation code expire until October 31st 2021
+        --> RJ41-8PQI-KTDT-WBBZ
+        --> 9Y4P-YISF-MTXB-AZKF
 
+    o Done, try to check version or use help like
+      --> ai help
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
    
@@ -97,7 +107,9 @@
    Once the installation is successful, restart computer.
    Open console CMD, Teminal or Termux, and type:
 
-     $ AI HELP
+     $ ai help
+     or
+     $ ai <command> help
    
    Everything is in there.
    Enjoy!
