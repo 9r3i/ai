@@ -15,7 +15,7 @@
 
 # Installation
 Read more about installation in file:
-[how-to-install-ai.txt](https://github.com/9r3i/ai/blob/master/how-to-install-ai.txt)
+[how-to-install-ai.txt](https://github.com/9r3i/ai/blob/main/how-to-install-ai.txt)
 
 
 # License
