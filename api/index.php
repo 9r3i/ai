@@ -38,7 +38,7 @@
     }
     header('HTTP/1.1 200 OK');
     /* default: application/octet-stream */
-    header('Content-Type: '.$this->mime($name));
+    header('Content-Type: '.$this->mime($_GET['file']));
     /* read file */
     while(!@feof($i)){
       echo @fread($i,pow(512,0x02));
