@@ -1,7 +1,7 @@
 <?php
 /* 9r3i\ai-release-forwarder, https://github.com/9r3i, started at july 21st 2023 */
 (new class{
-  const version='1.0.0';
+  const version='1.1.0';
   private $mime=[];
   private $base='https://github.com/9r3i/ai/releases/download/';
   private $aiversion='4.7.0.1911.957';
@@ -14,7 +14,6 @@
     @date_default_timezone_set('Asia/Jakarta');
     $this->h();
     if(isset($_GET['file'])){
-      //return $this->o('Error: Invalid file.');
       $file=$_GET['file'];
     }else{
       $path=explode('?',$_SERVER['REQUEST_URI'])[0];
