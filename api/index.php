@@ -4,7 +4,7 @@
   const version='1.0.0';
   private $mime=[];
   private $base='https://github.com/9r3i/ai/releases/download/';
-  private $aiversion='';
+  private $aiversion='4.7.0.1911.957';
   public function __construct(){
     return $this->s();
   }
