@@ -40,11 +40,11 @@
     /* default: application/octet-stream */
     header('Content-Type: '.$this->mime($_GET['file']));
     /* read file */
-    while(!@feof($i)){
-      echo @fread($i,pow(512,0x02));
+    while(!@feof($o)){
+      echo @fread($o,pow(512,0x02));
     }
     /* close file */
-    @fclose($i);
+    @fclose($o);
     /* return as true */
     return true;
   }
