@@ -13,12 +13,13 @@
     @set_time_limit(false);
     @date_default_timezone_set('Asia/Jakarta');
     $this->h();
-    if(!isset($_GET['file'])){
-      return $this->o('Error: Invalid file.');
+    if(isset($_GET['file'])){
+      //return $this->o('Error: Invalid file.');
+      $file=$_GET['file'];
+    }else{
+      $path=explode('?',$_SERVER['REQUEST_URI'])[0];
+      $file=preg_replace('/^\//','',$path);
     }
-    $file=$_GET['file'];
-    $path=explode('?',$_SERVER['REQUEST_URI'])[0];
-    $file=preg_replace('/^\//','',$path);
     $base=$this->base.$this->aiversion.'/';
     $url=$base.$file;
     $data=[];
