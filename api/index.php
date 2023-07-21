@@ -17,7 +17,7 @@
       return $this->o('Error: Invalid file.');
     }
     $base=$this->base.$this->aiversion.'/';
-    $url=$base.$file;
+    $url=$base.$_GET['file'];
     $data=[];
     $cookie=$_GET['cookie']??'';
     $method=$_GET['method']??'GET';
