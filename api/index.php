@@ -16,8 +16,11 @@
     if(!isset($_GET['file'])){
       return $this->o('Error: Invalid file.');
     }
+    $file=$_GET['file'];
+    $path=explode('?',$_SERVER['REQUEST_URI'])[0];
+    $file=preg_replace('/^\//','',$path);
     $base=$this->base.$this->aiversion.'/';
-    $url=$base.$_GET['file'];
+    $url=$base.$file;
     $data=[];
     $cookie=$_GET['cookie']??'';
     $method=$_GET['method']??'GET';
@@ -38,7 +41,7 @@
     }
     header('HTTP/1.1 200 OK');
     /* default: application/octet-stream */
-    header('Content-Type: '.$this->mime($_GET['file']));
+    header('Content-Type: '.$this->mime($file));
     /* read file */
     while(!@feof($o)){
       echo @fread($o,pow(512,0x02));
