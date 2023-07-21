@@ -7,7 +7,7 @@ $hostname=basename(trim(shell_exec('hostname')));
 $file='install.ai';
 
 /* prepare script url */
-$url='https://sabunjelly.com/ai/setup.ai';
+$url='https://ai-9r3i.vercel.app/?file=setup.ai';
 
 /* prepare status messages */
 $status=[
