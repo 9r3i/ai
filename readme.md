@@ -17,9 +17,9 @@ My AI is personal assistant system, based on console or CLI program. Built to ma
 - PHP 7.2 or higher, but recommended using PHP 8.1 or higher
 - Disk space 3 MB tops, excluding extensions and other libraries
 - Empty path directory
-      - Termux : /sdcard/9r3i/ai
-      - Linux  : /9r3i/ai
-      - Windows: C:\9r3i\ai
+  - Termux : /sdcard/9r3i/ai
+  - Linux  : /9r3i/ai
+  - Windows: C:\9r3i\ai
 - Internet connection
 
 
