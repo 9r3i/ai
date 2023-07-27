@@ -1,3 +1,16 @@
-Private license, included inside the crypto package.
-You are permitted to use privately and private function only.
-For any commercial use, please reach me at my email luthfie@y7mail.com
+Private License
+
+Permission to use
+You are only permitted to use this software privately and private function only.
+
+
+Terms
+All terms are included inside the crypto package.
+
+
+Commercial Use
+For any commercial use, please send me your request to my email:
+luthfie@y7mail.com
+
+
+Copyright (c) 2023, 9r3i
