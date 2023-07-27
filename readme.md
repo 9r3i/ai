@@ -25,10 +25,10 @@ My AI is personal assistant system, based on console or CLI program. Built to ma
 
 # Installation
 ## Download setup file
-First thing to do is download a setup file using wget or curl from ```https://raw.githubusercontent.com/9r3i/ai/main/ai.setup.php```
+First thing to do is download a setup file using wget or curl from ```https://raw.githubusercontent.com/9r3i/ai/master/ai.setup.php```
 example:
 ```
-wget https://raw.githubusercontent.com/9r3i/ai/main/ai.setup.php
+wget https://raw.githubusercontent.com/9r3i/ai/master/ai.setup.php
 ```
 
 ## Execute setup file
