@@ -25,7 +25,10 @@ My AI is personal assistant system, based on console or CLI program. Built to ma
 
 # Installation
 ## Download setup file
-First thing to do is download a setup file using ```wget``` or ```curl``` from ```https://raw.githubusercontent.com/9r3i/ai/master/ai.setup.php```
+First thing to do is download a setup file using ```wget``` or ```curl``` from
+```
+https://raw.githubusercontent.com/9r3i/ai/master/ai.setup.php
+```
 
 example using wget:
 ```
@@ -100,8 +103,11 @@ Copyright (c) 2023, 9r3i
 
 
 # Release
-Current versions are separated from another minor version.
-Latest version is [ai2.7](https://github.com/9r3i/ai/releases)
+## Latest version
+Latest version is [ai4.7](https://github.com/9r3i/ai/releases)
+
+## Older version
+Older versions are separated from another minor version.
 
 Stable version for PHP lower than version 8.0 [ai4.6](https://github.com/9r3i/ai4.6)
 
@@ -109,19 +115,26 @@ Stable version for PHP lower than version 8.0 [ai4.6](https://github.com/9r3i/ai
 # Contribution
 This time, this AI console system is private function only.
 
+## Make your own code
 But everyone can add their own code inside extension and library directory. While basic code of this system is PHP, AI will scan all php files in those directories and load-up as AI executing arguments.
 
 I will release a development guide for detail.
 
+## Sample library
 This time, some of library sample has been create at [https://github.com/9r3i/aipkg](https://github.com/9r3i/aipkg)
 
 And learn more about how to deploy to git host and add the repository as library to it to install on ai.
 
 
 # Next Tasks
-- End-User Manual
-- Development Guide
-- AI GUI Emulator (PARTLY-DONE)
+## End-User Manual
+onprogress...
+
+## Development Guide
+onprogress...
+
+## AI GUI Emulator
+onprogress... (PARTLY-DONE)
 
 
 # Closing
