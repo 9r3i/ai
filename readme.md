@@ -24,28 +24,28 @@ My AI is personal assistant system, based on console or CLI program. Built to ma
 
 
 # Installation
-## download setup file
+## Download setup file
 First thing to do is download a setup file using wget or curl from ```https://raw.githubusercontent.com/9r3i/ai/main/ai.setup.php```
 example:
 ```
 wget https://raw.githubusercontent.com/9r3i/ai/main/ai.setup.php
 ```
 
-## execute setup file
+## Execute setup file
 then execute it with,
 ```
 php ai.setup.php
 ```
 this command will download another setup completely
 
-## install ai
+## Install AI
 now time to install
 ```
 php install.ai
 ```
 wait for it in few secs
 
-## insert product key
+## Insert product key
 now lets test it by checking its version
 ```
 ai -v
@@ -59,7 +59,7 @@ for the very first time you will be asked for product key, you can insert this p
 ayyub-isa-malik
 ```
 
-## activation
+## Activation
 the last thing to do is activate the ai, you will be asked for activation codes, put one of this codes,
 - expired december 31st 2023, ```SOJ4-SHTY-YFJ3-KJ83```
 - expired june 30th 2024, ...
@@ -78,14 +78,27 @@ Also feel free to mail me at ```luthfie@y7mail.com```, if you have some question
 
 
 # License
-Private license, included inside the crypto package.
-You are permitted to use privately and private function only.
-For any commercial use, please reach me at my email ```luthfie@y7mail.com```
+Private License
+
+## Permission to use
+You are only permitted to use this software privately and private function only.
+
+## Terms
+All terms are included inside the crypto package.
+
+## Commercial Use
+For any commercial use, please send me your request to my email:
+```luthfie@y7mail.com```
+
+## Copyright
+Copyright (c) 2023, 9r3i
 
 
 # Release
 Current versions are separated from another minor version.
-Latest version is [ai4.6](https://github.com/9r3i/ai4.6)
+Latest version is [ai2.7](https://github.com/9r3i/ai/releases)
+
+Stable version for PHP lower than version 8.0 [ai4.6](https://github.com/9r3i/ai4.6)
 
 
 # Contribution
