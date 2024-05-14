@@ -70,12 +70,17 @@ ayyub-isa-malik
 ## Activation
 the last thing to do is activate the ai, you will be asked for activation codes, put one of this codes,
 - expired march 31st 2024, `8LX5-A5KU-SMDF-XYV9`
+  - note: can be activated after october 1st 2023
 - expired june 30th 2024, `M5R3-XH5H-KJPO-A6OX`
   - note: can be activated after january 1st 2024
 - expired sepember 30th 2024, `RL57-KGS5-KZ4W-WFSI`
-  - note: can be activated after march 1st 2024
-- expired december 31st 2024, ...
+  - note: can be activated after april 1st 2024
+- expired december 31st 2024, `935J-LN6F-LL43-YV1N`
+  - note: can be activated after july 1st 2024
 - expired march 31st 2025, ...
+  - note: can be activated after october 1st 2024
+- expired june 30th 2025, ...
+  - note: can be activated after january 1st 2025
 
 i will update another free codes for you to activate this system, so dont forget to follow
 
