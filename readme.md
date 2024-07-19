@@ -77,9 +77,9 @@ the last thing to do is activate the ai, you will be asked for activation codes,
   - note: should be activated after april 1st 2024
 - expired december 31st 2024, `935J-LN6F-LL43-YV1N`
   - note: should be activated after july 1st 2024
-- expired march 31st 2025, A5FT-EDKZ-O085-AN4Z
+- expired march 31st 2025, `A5FT-EDKZ-O085-AN4Z`
   - note: should be activated after october 1st 2024
-- expired june 30th 2025, ...
+- expired june 30th 2025, `9G59-KMID-RMDZ-EYBR`
   - note: should be activated after january 1st 2025
 
 i will update another free codes for you to activate this system, so dont forget to follow
